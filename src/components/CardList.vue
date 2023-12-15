@@ -4,6 +4,9 @@ import Card from '@/components/Card.vue';
 function changeFavorite() {
 	alert('favorite');
 }
+function changeAdded() {
+	alert(1);
+}
 </script>
 
 <template>
